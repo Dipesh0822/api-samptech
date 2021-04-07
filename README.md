@@ -1,1 +1,2 @@
-# api-samptech
+# API-Samptech
+NodeJS, JavaScript, Redis, MongoDB
