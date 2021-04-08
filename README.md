@@ -1,4 +1,4 @@
 # API-Samptech
 
-## Techmologies
+## Technology
 NodeJS, JavaScript, Redis, MongoDB, Lodash
